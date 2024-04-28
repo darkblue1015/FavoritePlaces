@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716831213443",
+    "project_id": "favorite-places-8934d",
+    "storage_bucket": "favorite-places-8934d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716831213443:android:bd320626db21bd360d58b6",
+        "android_client_info": {
+          "package_name": "com.example.favorite_places"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjbcwGyYA7KXS82q8keF1mfHhFasZXVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
